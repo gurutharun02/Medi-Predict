@@ -1,4 +1,3 @@
-MEDI-PREDICT
 This project focuses on building machine learning pipelines for the prediction of three major health conditions: Heart Disease, Lung Cancer, and Thyroid Cancer. The system is designed to simulate how artificial intelligence can assist healthcare professionals in the early diagnosis and decision-making process.
 
 Since real patient data is often restricted due to privacy concerns, the project uses synthetic datasets generated with clinically relevant features such as cholesterol levels, smoking history, tumor markers, and thyroid hormone levels. Each dataset is carefully structured to reflect real-world medical indicators for the respective diseases.
